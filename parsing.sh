@@ -2,9 +2,9 @@
 
 if ["$1" == ""]
 then
-        echo "Modo de uso incorreto"
-        echo "Modo de uso: comando mais site"
-        echo "Exemplo: ./aulascript.sh site.com.br"
+        echo "Incorrect use"
+        echo "How to use: command followed by hostname"
+        echo "Example: ./parsing.sh site.com"
         exit
 else 
 
