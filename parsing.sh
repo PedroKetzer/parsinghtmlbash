@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if ["$1" == ""]
+if [ "$1" == "" ]
 then
         echo "Incorrect use"
         echo "How to use: command followed by hostname"
